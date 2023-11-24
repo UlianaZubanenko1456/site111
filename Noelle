@@ -1,0 +1,36 @@
+<html>
+    <title>Інформація Ноель</title>
+    <body style="background:#FFFFE0;font-family :sans-serif">
+    <header><a href="#prayers">Молитви</a><a href="#character">Персонаж</a><img src="https://i.pinimg.com/originals/e4/77/b5/e477b5df43f0a78da1271d68fe608604.png"height="300" width="200"><h1 style="font-family :sans-serif;font-size:50px;background:#F0E68C">ІНФОРМАЦІЯ ПРО НОЕЛЬ</h1></header>
+    <main>
+        <p style="font-size:20px"><h2 id="prayers">Хочу почати з основного:
+            Молитви – це gacha-система Genshin Impact. Існує два основних типи Молитов: постійна (стандартна) молитва Жага мандрівок та обмежена за часом Молитва подій для персонажів та зброї. Розблокується на 5 ранзі пригод або після першої розмови у штабі Ордо Фавоніуса.</h2></p>
+        <p style="font-size:20px;background:#FFFFF0" id="character">Ноель персонаж Genshin Impact , яка випадає в молитвах з першого разу коли ви молитесь . Вона покоївка у штабі Ордо Фавоніуса , яка мріє щоб її взяли в лицарі .  </p>
+        <p><img src="https://cdn.donmai.us/sample/6f/1d/__noelle_genshin_impact_drawn_by_ewaaawa__sample-6f1d20b7879f375f873b5506d541363b.jpg"height="300" width="200"</p>
+        <p><img src="https://rare-gallery.com/resol/1920x1080/398022-wallpaper-noelle-genshin-impact-4k-hd.jpg"height="360" width="600"</p>
+        <table style="border-collapse:collapse;">
+            <tr>
+               <td style="border:1px solid olive;font-size:20px">Стихія:</td>
+               <td style="border:1px solid olive;font-size:20px">Гео</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid olive;font-size:20px;">Зброя</td>
+                <td style="border:1px solid olive;font-size:20px">Клеймор</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid olive;font-size:20px">Особлива страва</td>
+                <td style="border:1px solid olive;font-size:20px">Завтовшки з хмару млинці</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid olive;font-size:20px">День народження</td>
+                <td style="border:1px solid olive;font-size:20px">21 березня</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid olive;font-size:20px">Регіон</td>
+                <td style="border:1px solid olive;font-size:20px">Мондштад</td>
+            </tr>
+        </table>
+    </main>
+    <footer style="font-size:30px;background:#FFFFF0">Телефон : 050 055 7840_______електронна пошта : uniformzulu2013@gmail.com</footer>
+    </body>  
+</html>        
